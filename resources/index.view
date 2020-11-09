@@ -1,0 +1,6 @@
+<svg id="background">
+  <text y="35%" x="50%" text-length="13">Transactional</text>
+  <text y="46%" x="50%" text-length="10" id="T" />
+  <text y="57%" x="50%" text-length="5">Saver</text>
+  <text y="68%" x="50%" text-length="10" id="S" />
+</svg>

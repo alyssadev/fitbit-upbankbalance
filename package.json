@@ -1,0 +1,26 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~5.0.0"
+  },
+  "fitbit": {
+    "appUUID": "2582dc17-97c2-46c8-a069-ae5fa50b704b",
+    "appType": "app",
+    "appDisplayName": "Up Balance",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#ff5722",
+    "requestedPermissions": [
+      "access_internet",
+      "run_background"
+    ],
+    "buildTargets": [
+      "atlas",
+      "vulcan"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "Up Balance"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}
